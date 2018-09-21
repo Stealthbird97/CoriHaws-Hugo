@@ -65,7 +65,6 @@ paginate = 5
     mainSections = ["post"]
 [permalinks]
     posts = "/:year/:month/:slug/"
-    vn = "/:year/:month/:slug/"
 
 ## Site Meta Settings
 [params.meta]
