@@ -2,6 +2,7 @@ baseURL = "https://corihaws.co.uk"
 languageCode = "en"
 title = "Cori Haws"
 author = "Cori Haws"
+copyright = "All Rights Reserved"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -27,8 +28,8 @@ paginate = 5
 ## Site Settings
 [params]
     author = "Cori Haws"
-    #description = ""
-    authorimage = ""
+    description = "Cori Haws"
+    authorimage = "img/Cori.jpg"
     #authorimage = ""
 
     # https://golang.org/pkg/time/#example_Time_Format
