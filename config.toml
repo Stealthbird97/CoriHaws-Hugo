@@ -1,4 +1,129 @@
 baseURL = "https://corihaws.co.uk"
 languageCode = "en"
 title = "Cori Haws"
+author = "Cori Haws"
 theme = "hyde-hyde"
+
+## Hugo Built-in Features
+#disqusShortname = "" # Comment out to disable Disqus.
+#googleAnalytics = ""
+enableRobotsTXT = true
+enableEmoji = true
+
+# Built-in highlighting
+# https://gohugo.io/content-management/syntax-highlighting
+#pygmentsCodeFences = true
+#pygmentsStyle = "friendly"
+#pygmentsStyle = "monokai"
+#pygmentsStyle = "default"
+#pygmentsUseClasses = true     # this overrides 'PygmentsStyle'
+#http://pygments.org
+#pygmentsUseClassic = true     # falling back to Pygments instead of Chroma
+
+summarylength = 30
+
+paginate = 5
+
+## Site Settings
+[params]
+    author = "Cori Haws"
+    #description = ""
+    authorimage = ""
+    #authorimage = ""
+
+    # https://golang.org/pkg/time/#example_Time_Format
+    dateformat = "Mon Jan 2 15:04:05 GMT 2006"
+
+    # https://highlightjs.org
+    highlightjs = true
+    #highlightjsstyle = "agate"
+    #highlightjsstyle = "androidstudio"
+    #highlightjsstyle = "atom-one-dark"
+    #highlightjsstyle = "atom-one-light"
+    #highlightjsstyle = "dracula"
+    #highlightjsstyle = "darcula"
+    highlightjsstyle = "github"
+    #highlightjsstyle = "hybrid"
+    #highlightjsstyle = "monokai"
+    #highlightjsstyle = "ocean"
+    #highlightjsstyle = "railscasts"
+    #highlightjsstyle = "rainbow"
+    #highlightjsstyle = "sunburst"
+    #highlightjsstyle = "tomorrow-night"
+    #highlightjsstyle = "tomorrow-night-bright"
+    #highlightjsstyle = "tomorrow-night-eighties"
+    #highlightjsstyle = "zenburn"
+
+    # either GraphComment or Disqus
+    # https://graphcomment.com
+    #GraphCommentId = "htr3n-github-io"
+
+    relatedPosts = true
+    #postNavigation = false
+
+    mainSections = ["post"]
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    vn = "/:year/:month/:slug/"
+
+## Site Meta Settings
+[params.meta]
+    description = ""
+    keywords = ""
+
+## Social Accounts
+[params.social]
+    github = "Stealthbird97"
+    #instagram = ""
+    #medium = ""
+    #bitbucket = ""
+    linkedin = "corihaws"
+    twitter = "Stealthbird97"
+    #keybase = ""
+    facebook = "Stealthbird97"
+    #gitlab = ""
+    #stackoverflow = ""
+    #xing = "Huy_Tran2"
+    email = "corihaws@radio-noise.net"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 300
+    url = "/portfolio/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 900
+    url = "/about/"
+
+# https://gohugo.io/content-management/related
+[related]
+    # Only include matches with rank >= threshold. This is a normalized rank
+    # between 0 and 100.
+    threshold = 80
+    # To get stable "See also" sections we, by default, exclude newer related
+    # pages.
+    includeNewer = false
+    # Will lower case keywords in both queries and in the indexes.
+    toLower = false
+[[related.indices]]
+    name = "keywords"
+    weight = 150
+[[related.indices]]
+    name  = "author"
+    toLower = true
+    weight = 30
+[[related.indices]]
+    name  = "tags"
+    weight = 100
+[[related.indices]]
+    name  = "date"
+    weight = 10
+    pattern = "2006"
