@@ -33,7 +33,7 @@ paginate = 5
     #authorimage = ""
 
     # https://golang.org/pkg/time/#example_Time_Format
-    dateformat = "Mon Jan 2 15:04:05 GMT 2006"
+    dateformat = "Mon 2 Jan 2006 15:04 GMT"
 
     # https://highlightjs.org
     highlightjs = true
@@ -101,8 +101,13 @@ paginate = 5
 [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 900
+    weight = 0
     url = "/about/"
+[[menu.main]]
+    name = "Physics"
+    identifier = "physics"
+    weight = 200
+    url = "/physics/"
 
 # https://gohugo.io/content-management/related
 [related]
