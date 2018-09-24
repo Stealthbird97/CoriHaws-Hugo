@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2018-09-21T22:33:37+01:00
 lastmod: 2018-09-21T22:33:37+01:00
 tags : []
-categories : []
+categories : ["blog"]
 type:  "post"
 highlight: false
 draft: true
