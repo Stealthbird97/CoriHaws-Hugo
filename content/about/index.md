@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-09-21T17:24:26+01:00
-draft: true
+draft: false
 ---
 
 My name is Cori Haws. I am multi-skilled with some knowledge of VisualBasic and Python, HTML and CSS design, Adobe Photoshop and Illustrator, Aviation and Natural Sciences.
