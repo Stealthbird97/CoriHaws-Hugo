@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cori Haws</title>
+    <link>https://corihaws.co.uk/portfolio/</link>
+    <description>Recent content in Projects on Cori Haws</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://corihaws.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tunable Dipole</title>
+      <link>https://corihaws.co.uk/portfolio/dipole/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://corihaws.co.uk/portfolio/dipole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server PSU Based Radio Power Supply</title>
+      <link>https://corihaws.co.uk/portfolio/psu/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://corihaws.co.uk/portfolio/psu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
