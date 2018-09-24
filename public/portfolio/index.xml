@@ -7,28 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://corihaws.co.uk/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tunable Dipole</title>
-      <link>https://corihaws.co.uk/portfolio/dipole/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://corihaws.co.uk/portfolio/dipole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Server PSU Based Radio Power Supply</title>
-      <link>https://corihaws.co.uk/portfolio/psu/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://corihaws.co.uk/portfolio/psu/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

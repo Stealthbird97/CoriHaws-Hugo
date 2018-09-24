@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cori Haws</title>
-    <link>https://corihaws.co.uk/</link>
-    <description>Recent content on Cori Haws</description>
+    <title>Posts on Cori Haws</title>
+    <link>https://corihaws.co.uk/posts/</link>
+    <description>Recent content in Posts on Cori Haws</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All Rights Reserved</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 22:52:33 +0100</lastBuildDate>
     
-	<atom:link href="https://corihaws.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://corihaws.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,26 +30,6 @@ I was simply told of an alternative by someone who is far more knowledgable than
       <guid>https://corihaws.co.uk/2018/09/hello-world/</guid>
       <description>Welcome to my new blog
 I&amp;rsquo;m not one for creative writing so you won&amp;rsquo;t find much of that here. I&amp;rsquo;m not convinced I will actually write much, but it is here just in case I feel like using it.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://corihaws.co.uk/about/</link>
-      <pubDate>Fri, 21 Sep 2018 17:24:26 +0100</pubDate>
-      
-      <guid>https://corihaws.co.uk/about/</guid>
-      <description>My name is Cori Haws. I am multi-skilled with some knowledge of VisualBasic and Python, HTML and CSS design, Adobe Photoshop and Illustrator, Aviation and Natural Sciences.
-I have aspirations of eventually becoming a Commercial Airline Pilot for a well respected airline and have had my mind set of achieving this dream of mine for many years.</description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>https://corihaws.co.uk/contact/</link>
-      <pubDate>Fri, 21 Sep 2018 17:24:26 +0100</pubDate>
-      
-      <guid>https://corihaws.co.uk/contact/</guid>
-      <description>You can get in contact with me by clicking on the links in the side bar.
-I am also on a number of social media sites. Please refrain from friendship requests without prior contact.</description>
     </item>
     
   </channel>
