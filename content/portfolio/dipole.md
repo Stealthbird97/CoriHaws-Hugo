@@ -6,4 +6,5 @@ link: /portfolio/dipole/
 screenshot:
 date: 2018-01-19
 layout: portfolio
+draft: true
 ---

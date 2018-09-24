@@ -6,7 +6,7 @@ categories : [ "blog" ]
 layout: post
 type:  "post"
 highlight: false
-draft: true
+draft: false
 ---
 
 In all honesty, the reason I switched from jekyll was I was told to. Well, that is a bit of a lie.

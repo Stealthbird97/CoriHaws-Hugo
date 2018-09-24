@@ -103,6 +103,11 @@ paginate = 5
     weight = 0
     url = "/about/"
 [[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    weight = 0
+    url = "/contact/"
+[[menu.main]]
     name = "Physics"
     identifier = "physics"
     weight = 200
