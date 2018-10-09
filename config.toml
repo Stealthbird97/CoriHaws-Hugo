@@ -93,11 +93,6 @@ paginate = 5
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 300
-    url = "/portfolio/"
-[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 0
@@ -112,6 +107,11 @@ paginate = 5
     identifier = "physics"
     weight = 200
     url = "/physics/"
+[[menu.main]]
+    name = "Amateur Radio"
+    identifier = "ham"
+    weight = 200
+    url = "/hamradio/"
 
 # https://gohugo.io/content-management/related
 [related]
