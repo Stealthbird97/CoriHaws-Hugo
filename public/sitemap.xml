@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://corihaws.co.uk/2018/10/asking-for-help-on-social-media/</loc>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://corihaws.co.uk/2018/09/why-i-switched-from-jekyll-to-hugo/</loc>
     <lastmod>2018-09-24T22:52:33+01:00</lastmod>
   </url>
@@ -24,19 +29,25 @@
   
   <url>
     <loc>https://corihaws.co.uk/categories/blog/</loc>
-    <lastmod>2018-09-24T22:52:33+01:00</lastmod>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corihaws.co.uk/categories/</loc>
-    <lastmod>2018-09-24T22:52:33+01:00</lastmod>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://corihaws.co.uk/</loc>
-    <lastmod>2018-09-24T22:52:33+01:00</lastmod>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://corihaws.co.uk/tags/facebook/</loc>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,7 +57,7 @@
   
   <url>
     <loc>https://corihaws.co.uk/posts/</loc>
-    <lastmod>2018-09-24T22:52:33+01:00</lastmod>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +66,14 @@
   </url>
   
   <url>
+    <loc>https://corihaws.co.uk/tags/rant/</loc>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://corihaws.co.uk/tags/</loc>
+    <lastmod>2018-10-09T16:22:16+01:00</lastmod>
     <priority>0</priority>
   </url>
   

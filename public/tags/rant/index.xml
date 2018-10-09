@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rant on Cori Haws</title>
+    <link>https://corihaws.co.uk/tags/rant/</link>
+    <description>Recent content in Rant on Cori Haws</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 09 Oct 2018 16:22:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://corihaws.co.uk/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asking for Help on Social Media</title>
+      <link>https://corihaws.co.uk/2018/10/asking-for-help-on-social-media/</link>
+      <pubDate>Tue, 09 Oct 2018 16:22:16 +0100</pubDate>
+      
+      <guid>https://corihaws.co.uk/2018/10/asking-for-help-on-social-media/</guid>
+      <description>Every now and then I will see someone asking for help with something on social media. As the helpful person I am, I decided to offer my help as I thought that in this particular case I might be able to solve the problem.</description>
+    </item>
+    
+  </channel>
+</rss>
