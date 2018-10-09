@@ -41,16 +41,6 @@ I was simply told of an alternative by someone who is far more knowledgable than
     </item>
     
     <item>
-      <title>CompletePiSSTV</title>
-      <link>https://corihaws.co.uk/portfolio/completepisstv/</link>
-      <pubDate>Mon, 24 Sep 2018 22:39:03 +0100</pubDate>
-      
-      <guid>https://corihaws.co.uk/portfolio/completepisstv/</guid>
-      <description>The Complete PiSSTV is a compilation of programs designed which enables anyone to convert their Raspberry Pi Computer into an amateur SSTV (Slow Scan TV) transmitter.
-Originally a fork of the SUWS/pisstv project, which had the same purpose, however, has undergone significant changes that the only remanents are the original install script.</description>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>https://corihaws.co.uk/2018/09/hello-world/</link>
       <pubDate>Fri, 21 Sep 2018 22:33:37 +0100</pubDate>
@@ -78,24 +68,6 @@ I have aspirations of eventually becoming a Commercial Airline Pilot for a well 
       <guid>https://corihaws.co.uk/contact/</guid>
       <description>You can get in contact with me by clicking on the links in the side bar.
 I am also on a number of social media sites. Please refrain from friendship requests without prior contact.</description>
-    </item>
-    
-    <item>
-      <title>Tunable Dipole</title>
-      <link>https://corihaws.co.uk/portfolio/dipole/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://corihaws.co.uk/portfolio/dipole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Server PSU Based Radio Power Supply</title>
-      <link>https://corihaws.co.uk/portfolio/psu/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://corihaws.co.uk/portfolio/psu/</guid>
-      <description></description>
     </item>
     
   </channel>
