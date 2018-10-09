@@ -2,7 +2,6 @@
 title: "CompletePiSSTV"
 date: 2018-09-24T22:39:03+01:00
 lastmod: 2018-09-24T22:39:03+01:00
-description: "SSTV on a Raspberry Pi"
 tags : [ "SSTV", "Raspbery Pi"]
 categories : [ "Amateur Radio" ]
 layout: portfolio
