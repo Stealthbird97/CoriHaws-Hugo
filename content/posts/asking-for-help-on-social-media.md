@@ -21,7 +21,7 @@ I'm going to use the post I attempted to help with today as an example. Quotes i
 > ![Image of AC/DC Adapter](https://corihaws.co.uk/img/plug.jpg)
 
 So, this person is looking for an AC/DC adapter of some kind. There is already a problem here. Apparently, they do not know what they are looking for. Now, I will admit, I am being pedantic here. They know exactly what they are looking for. They have all the information in their hands. I think they really meant to say "I don't know HOW to look for it".
-In this day and age, you have hope people to know how to use a search engine, but in reality, you can only expect those from the tail end of Gen Y really know how to do it, but I digress.
+In this day and age, you have hope that people know how to use a search engine, but in reality, you can only expect those from the tail end of Gen Y really know how to do it, but I digress.
 
 This looks like a very generic adapter. Yes, it has the model number and voltage and current parameters, however, a quick [google search] is points me to... You guessed it, a load of generic AC/DC adapters.
 
