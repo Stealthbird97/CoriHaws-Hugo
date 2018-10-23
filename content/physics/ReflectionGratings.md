@@ -1,5 +1,5 @@
 ---
-title: "Determination of the track spacing on optical disks by usage as reection gratings."
+title: "Determination of the track spacing on optical disks by usage as reflection gratings."
 date: 2018-09-21T22:19:34+01:00
 lastmod: 2018-09-21T22:19:34+01:00
 tags : [ "light", "report", "experiment" ]
